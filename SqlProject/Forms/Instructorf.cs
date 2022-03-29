@@ -13,6 +13,7 @@ namespace SqlProject
 {
     public partial class Instructorf : Form
     {
+        //new comment
         //SQLProjectEntities4 ent;
         int instID;
         string instName;
@@ -114,7 +115,7 @@ namespace SqlProject
         #endregion
 
 
-
+       
 
 
         private void Instructorf_FormClosing(object sender, FormClosingEventArgs e)
